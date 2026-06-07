@@ -201,46 +201,46 @@ const expLogos = [
 
 const testimonials = [
   {
-    name: "Solomon ",
+    name: "Kelvin Mwangi ",
     mentions: "@iyf weekend Academy",
     review:
       "I can’t say enough good things about Nickson. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding. IYF Weekend Academy is now able to reach a wider audience and provide a better user experience thanks to Nickson's work.",
-    imgPath: "/images/client1.png",
+    imgPath: "/images/dev1.jpeg",
   },
   {
     name: "Wade Warren",
     mentions: "@wadewarren",
     review:
       "Working with Nickson was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects/mobile development.",
-    imgPath: "/images/client3.png",
+    imgPath: "/images/dev2.jpeg",
   },
   {
     name: "Hamisi Henry",
     mentions: "@hamisiBookshop",
     review:
       "Collaborating with Nickson was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Nickson's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Nickson is the ideal partner, we delivered with him an Enterprise point of sale solution for Hamisi Bookshop.",
-    imgPath: "/images/client2.png",
+    imgPath: "/images/dev3.jpeg",
   },
   {
-    name: "Nick Nickson",
+    name: "Dennis Muthoni",
     mentions: "@GreenLeaf Investments",
     review:
       "Nickson was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
-    imgPath: "/images/client5.png",
+    imgPath: "/images/dev4.jpeg",
   },
   {
     name: "Kevin ",
     mentions: "@kevmwas",
     review:
       "Nickson’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-    imgPath: "/images/client4.png",
+    imgPath: "/images/dev5.jpeg",
   },
   {
     name: "Timothy Mugo",
     mentions: "@Tausi App",
     review:
       "Nickson was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-    imgPath: "/images/client6.png",
+    imgPath: "/images/dev6.jpeg",
   },
 ];
 

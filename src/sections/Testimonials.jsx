@@ -15,8 +15,9 @@ const Testimonials = () => {
           {testimonials.map((testimonial, index) => (
             <GlowCard card={testimonial} key={index} index={index}>
               <div className="flex items-center gap-3">
-                <div>
-                  <img src={testimonial.imgPath} alt="" />
+                <div className ="flex-shrink-0">
+                  <img src={testimonial.imgPath} alt={testimonial.name}
+                   className="w-12 h-12 rounded-full object-cover border border-white/10" />
                 </div>
                 <div>
                   <p className="font-bold">{testimonial.name}</p>
